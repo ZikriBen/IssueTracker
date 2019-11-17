@@ -1,2 +1,4 @@
 # JS Issue Tracker
-This is the *JS Issue Tracker* sample application from the tutorial *Pure JavaScript - Building A Real-World Application From Scratch*. You can find the tutorial on http://CodingTheSmartWay.com.
+This is the *JS Issue Tracker* sample application.
+
+The application get information from user and upadtes a Issue Form for tracking work on issues, bugs etc.
